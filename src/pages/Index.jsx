@@ -1,5 +1,5 @@
 import { Box, Flex, Textarea, Input, Button, useToast, SimpleGrid, Heading } from '@chakra-ui/react';
-import { FaTrash, FaSave } from 'react-icons/fa';
+import { FaTrash, FaSave, FaPlus } from 'react-icons/fa';
 import { useState, useEffect } from 'react';
 import { client } from '../../lib/crud';
 
